@@ -1,0 +1,30 @@
+{
+  "name": "strapi-utils",
+  "version": "3.6.11",
+  "description": "Shared utilities for the Strapi packages",
+  "homepage": "https://gameschool.org",
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "author": {
+    "email": "song@gameschool.org",
+    "name": "Gameschool team",
+    "url": "https://gameschool.org"
+  },
+  "maintainers": [
+    {
+      "name": "Gameschool team",
+      "email": "support@gameschool.org",
+      "url": "https://gameschool.org"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/game-school/strapi-utils.git"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=18.x.x",
+    "npm": ">=6.0.0"
+  }
+}
