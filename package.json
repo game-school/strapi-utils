@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/game-school/strapi-utils.git"
+    "url": "ssh://git@github.com/game-school/strapi-utils.git"
   },
   "engines": {
     "node": ">=10.16.0 <=18.x.x",
